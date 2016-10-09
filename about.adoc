@@ -1,3 +1,4 @@
+= About
 Germany-based Handelsjournal estimated in 2015 that the market share of online shops in Germany will almost double from currently 8.5 % to about 15 % in the year 2025. This development makes it clear that companies are in need for specialists in the field of e-commerce. Up to now there are only very little training possibilities for young people in this field. The vocational schools Staatliche Berufsschule II Bayreuth, SPS el-it Dobruska and Landesberufsschule Tschuggmall Brixen (Scuola Professionale Provinciale Tschuggmall di Bressanone) have formed a strategic partnership in order to develop training concepts for this emerging sector and thus give students new employment and career opportunities.
 
 The acclaimed objective of the project is to develop innovative, learner-centered, action-based materials which are designed to foster the digital competence of our students. This includes the following abilities:
@@ -11,15 +12,18 @@ The materials will be thoroughly tested in three learning activities which will 
 ## The partners
 
 ### Staatliche Berufsschule Bayreuth
-Äußere Badstraße 32, D-95448 Bayreuth, Germany 
+Äußere Badstraße 32, +
+D-95448 Bayreuth, +
+Germany 
 
-[Website](http://kbs-bth.de)
+link:http://kbs-bth.de[Website]
 
 ### Landesberufsschule Tschuggmall Brixen 
-Fischzuchtweg 18,
-I-39042 Brixen, 
+Fischzuchtweg 18, +
+I-39042 Brixen, +
 Italy 
-<p><a href="http://www.tschuggmall.berufsschule.it" target="_blank">Website</a></p>
+
+link:http://www.tschuggmall.berufsschule.it[Website]
 
 ### SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologií
 Čs.odboje 670, 518 01 Dobruška, Czech Republic
