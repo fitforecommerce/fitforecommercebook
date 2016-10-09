@@ -3,9 +3,7 @@ Germany-based Handelsjournal estimated in 2015 that the market share of online s
 The acclaimed objective of the project is to develop innovative, learner-centered, action-based materials which are designed to foster the digital competence of our students. This includes the following abilities:
 
 - developing a spirit of entrepreneurship- setting up and administrating an online shop- processing orders and communicating with customers online- evaluating shop performance, calculating key figures (e.g. conversion rate)
-
 - monitoring and evaluating website traffic- planning and implementing (online) marketing for e-commerce including search engine optimisation- creating graphic designs and content for use in e-commerce
-
 - reading and interpreting HTML code of existing websites- coding a basic internet site in HTML and CSS- publishing HTML content to the web
 
 The materials will be thoroughly tested in three learning activities which will be hosted by the participating schools and then openly published to the project website. Furthermore a platform will be implemented in order to make the setup of multiple onlineshops for in-classroom use easy for teachers.
