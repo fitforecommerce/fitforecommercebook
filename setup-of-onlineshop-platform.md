@@ -2,11 +2,17 @@
 
 This chapter will cover:
 
+## Entrepreneurship
+
 * developing a competitive business idea
+
+
+## Technical basic knowledge
 
 * technical requirements needed to set up an online shop
 
-* administrating an online-shop as to:
+
+## Administrating an online shop
 
 * administrating products and product categories
 
