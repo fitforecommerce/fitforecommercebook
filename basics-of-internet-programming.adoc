@@ -7,8 +7,8 @@ This chapter will cover:
 ** creating an internet site in HTML
 * Styling HTML with CSS
 ** styling an internet site with inline-style tags and inline CSS code
-** style existing HTML by making use of cascading style sheets \(CSS\)
-** realise why use of CSS is superior to inline-styles \(maintainability, consistency\)
+** style existing HTML by making use of cascading style sheets (CSS)
+** realise why use of CSS is superior to inline-styles (maintainability, consistency)
 * Publishing a website
 ** making a website available on the Internet
 * Online collaboration
