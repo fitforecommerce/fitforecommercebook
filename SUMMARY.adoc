@@ -1,8 +1,8 @@
 # Summary
 
-* [Introduction](README.adoc)
-* [About the project](about.adoc)
-* [Setting up an online shop](setup-of-onlineshop-platform.adoc)
-* [Facilitating Online Marketing](facilitating-online-marketing.adoc)
-* [Basics of Internet Programming](basics-of-internet-programming.adoc)
+. link:README.adoc[Introduction]
+.. link:about.adoc[About the project]
+. link:setup-of-onlineshop-platform.adoc[Setting up an online shop]
+. link:facilitating-online-marketing.adoc[Facilitating online marketing]
+. link:basics-of-internet-programming.adoc[Basics of Internet programming]
 
