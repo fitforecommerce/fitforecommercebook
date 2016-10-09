@@ -2,25 +2,26 @@
 
 This chapter will cover:
 
-\* developing a competitive business idea
+* developing a competitive business idea
 
-\* technical requirements needed to set up an online shop
+* technical requirements needed to set up an online shop
 
-\* administrating an online-shop as to:
+* administrating an online-shop as to:
 
-    \* administrating products and product categories
+* administrating products and product categories
 
-    \* basic design, using templates and pre-made modules
+* basic design, using templates and pre-made modules
 
-    \* adding product pictures
+* adding product pictures
 
-    \* creating meaningful shop content \(especially regarding product descriptions, basics of search engine optimisation\)
+* creating meaningful shop content \\(especially regarding product descriptions, basics of search engine optimisation\\)
 
-    \* adding correct legal terms and conditions, contact information
+* adding correct legal terms and conditions, contact information
 
-    \* setting up tax information, shipping rates
+* setting up tax information, shipping rates
 
-    \* processing orders and customer communication
+* processing orders and customer communication
 
-\* evaluating shop performance, calculating key figures
+* evaluating shop performance, calculating key figures
+
 
