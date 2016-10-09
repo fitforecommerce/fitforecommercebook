@@ -1,1 +1,4 @@
-{}
+{
+  "structure.readme": "README.adoc",
+  "structure.summary": "SUMMARY.adoc"
+}
