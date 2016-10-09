@@ -1,5 +1,7 @@
 # Facilitating Online Marketing
 
+This chapter will cover:
+
 * Search Engine Optimization (SEO)
     * analyzing keywords and optimising text content of an online-shop
 * Marketing with Google tools
