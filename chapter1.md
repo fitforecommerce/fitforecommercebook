@@ -12,14 +12,22 @@ The materials will be thoroughly tested in three learning activities which will 
 
 ## The partners
 
-<!-- Include Google maps stuff--><script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&key=AIzaSyDvcL__RB06mmPrpbzj88CnN23GbN9p-Lc"></script><script src="/js/partner_google_maps.js"></script><div id="map_canvas"></div>
+### Staatliche Berufsschule Bayreuth
+Äußere Badstraße 32, D-95448 Bayreuth, Germany 
 
-### Staatliche Berufsschule BayreuthÄußere Badstraße 32 D-95448 Bayreuth Germany <p><a href="https://kbs-bth.de" target="_blank">Website</a></p>
+[Website](http://kbs-bth.de)
 
-### Landesberufsschule Tschuggmall Brixen Fischzuchtweg 18 I-39042 Brixen Italy <p><a href="http://www.tschuggmall.berufsschule.it" target="_blank">Website</a></p>
+### Landesberufsschule Tschuggmall Brixen 
+Fischzuchtweg 18,
+I-39042 Brixen, 
+Italy 
+<p><a href="http://www.tschuggmall.berufsschule.it" target="_blank">Website</a></p>
 
-### SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologiíČs.odboje 670 518 01 Dobruška Czech Republic <p><a href="https://spselitdobruska.cz" target="_blank">Website</a></p>
+### SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologií
+Čs.odboje 670, 518 01 Dobruška, Czech Republic
+<p><a href="https://spselitdobruska.cz" target="_blank">Website</a></p>
 
 <hr>
 
-## CopyrightCopyright (c) 2016-2018 Fit for e-commerce project team / coordinator: Martin Kolb, Staatliche Berufsschule II Bayreuth
+## Copyright
+Copyright (c) 2016-2018 Fit for e-commerce project team / coordinator: Martin Kolb, Staatliche Berufsschule II Bayreuth
