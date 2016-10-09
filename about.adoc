@@ -27,10 +27,10 @@ Italy
 link:http://www.tschuggmall.berufsschule.it[Website]
 
 === SPSelit Dobruška - Střední průmyslová škola elektrotechniky a informačních technologií
-Čs.odboje 670, 518 01 Dobruška, Czech Republic
-<p><a href="https://spselitdobruska.cz" target="_blank">Website</a></p>
-
-<hr>
+Čs.odboje 670, +
+518 01 Dobruška, +
+Czech Republic
+link:https://spselitdobruska.cz[Website]
 
 == Copyright
 Copyright (c) 2016-2018 Fit for e-commerce project team / coordinator: Martin Kolb, Staatliche Berufsschule II Bayreuth
