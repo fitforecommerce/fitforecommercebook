@@ -24,7 +24,9 @@ Here is some more info on what to write under these points:
 ### Competences
 Competences should be written in the following syntax:
 
-```The students```
+The students **administrate** - **an online shop** - **without assistance from their teacher**.
+
+
 
 ### Lesson plan
 
