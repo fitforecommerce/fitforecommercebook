@@ -8,3 +8,24 @@ Chapters represent a unit for a specific topic. The original application stated 
 * Setup of an online shop
 * Facilitating online marketing
 * Basics of Internet programming
+
+## Structure of a chapter
+The sub-structure of a chapter should be as follows:
+
+* Competences
+    * Professional competences
+    * Other competences
+* Lesson plan
+* Lesson materials - students
+* Lesson materials - teachers
+
+Here is some more info on what to write under these points:
+
+### Competences
+Competences should be written in the following syntax:
+
+```The students
+
+### Lesson plan
+
+State technical requirements needed for the lesson. Also state the knowledge and skills required from the teachers.
