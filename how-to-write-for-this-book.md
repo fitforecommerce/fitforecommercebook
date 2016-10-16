@@ -24,7 +24,7 @@ Here is some more info on what to write under these points:
 ### Competences
 Competences should be written in the following syntax:
 
-The students **administrate** - **an online shop** - **without assistance from their teacher**.
+The student... **administrates** - **an online shop** - **without assistance from their teacher**.
 
 The competence is structured in three parts (bold):
 
@@ -33,6 +33,12 @@ The competence is structured in three parts (bold):
 |verb        | States the action which will be done by the student or which the student is supposed to be able to do after the unit. |
 |noun        | States the object which is affected by the action of the student. |
 |adjectives and adverbs | State on which level of difficulty the student will complete the action |
+
+Example competences:
+The student...
+
+* uploads files to the website with guidance from the teacher.
+* 
 
 ### Lesson plan
 
