@@ -24,8 +24,8 @@ Here is some more info on what to write under these points:
 ### Competences
 Competences should be written in the following syntax:
 
-```The students
+```The students```
 
 ### Lesson plan
 
-State technical requirements needed for the lesson. Also state the knowledge and skills required from the teachers.
+State technical requirements needed for the lesson (e.g. software which was used, possible alternatives for the software for Microsoft Windows, macOS and Linux). Also state the knowledge and skills required from the teachers.
