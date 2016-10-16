@@ -32,7 +32,7 @@ The competence is structured in three parts (bold):
 |------------|----------------|
 |verb        | States the action which will be done by the student or which the student is supposed to be able to do after the unit. |
 |noun        | States the object which is affected by the action of the student. |
-
+|adjectives and adverbs | State on which level of difficulty the student will complete the action |
 
 ### Lesson plan
 
