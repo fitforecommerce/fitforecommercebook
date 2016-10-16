@@ -34,6 +34,8 @@ The competence is structured in three parts (bold):
 |noun        | States the object which is affected by the action of the student. |
 |adjectives and adverbs | State on which level of difficulty the student will complete the action |
 
+
+
 Example competences:
 The student...
 
