@@ -28,8 +28,9 @@ The students **administrate** - **an online shop** - **without assistance from t
 
 The competence is structured in three parts (bold):
 
-|Word type   |        |        |
-|------------|--------|--------|
+|Word type   |  Function      |
+|------------|----------------|
+|verb        | States the action which will be done by the student or which the student is supposed to be able to do after the unit. |
 
 
 ### Lesson plan
