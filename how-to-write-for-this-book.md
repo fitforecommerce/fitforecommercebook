@@ -38,7 +38,8 @@ Example competences:
 The student...
 
 * uploads files to the website with guidance from the teacher.
-* 
+* edit and create basic HTML tags autonomously.
+* collect the different Internet protocol types from the Internet.
 
 ### Lesson plan
 
