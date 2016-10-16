@@ -25,3 +25,8 @@ The students will:
 
 ### Other competences
 
+## Lesson plan
+
+## Lesson materials - students
+
+## Lesson materials - teachers
