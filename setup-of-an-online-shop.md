@@ -17,3 +17,11 @@ This chapter will cover:
  * evaluating shop performance, calculating key figures
 
 
+## Competences
+### Fachkompetenz
+The students will:
+
+* administrate a webshop
+
+### Other competences
+
