@@ -24,7 +24,7 @@ Here is some more info on what to write under these points:
 ### Competences
 Competences should be written in the following syntax:
 
-The student... **administrates** - **an online shop** - **without assistance from their teacher**.
+The student **administrates** - **an online shop** - **without assistance from their teacher**.
 
 The competence is structured in three parts (bold):
 
