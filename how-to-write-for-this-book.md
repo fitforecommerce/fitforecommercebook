@@ -28,7 +28,8 @@ The students **administrate** - **an online shop** - **without assistance from t
 
 The competence is structured in three parts (bold):
 
-1. The 
+|Word type   |        |        |
+|------------|--------|--------|
 
 
 ### Lesson plan
