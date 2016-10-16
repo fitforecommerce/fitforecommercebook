@@ -26,6 +26,9 @@ Competences should be written in the following syntax:
 
 The students **administrate** - **an online shop** - **without assistance from their teacher**.
 
+The competence is structured in three parts (bold):
+
+1. The 
 
 
 ### Lesson plan
