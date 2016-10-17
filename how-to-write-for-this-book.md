@@ -45,4 +45,8 @@ The student...
 
 ### Lesson plan
 
+Create a description for teachers on how the lesson should be used.
+
 State technical requirements needed for the lesson (e.g. software which was used, possible alternatives for the software for Microsoft Windows, macOS and Linux). Also state the knowledge and skills required from the teachers.
+
+The methodology of the project is:1. Facilitating **learner-centered** learning experiences.2. Facilitating **action-based** learning experiences.3. Focusing on **fostering digital competence**.
