@@ -1,0 +1,7 @@
+= Fit for E-Commerce Course Book
+
+This book was created as an Intellectual output of the Erasmus+ project -  link:https://fitforecommerce.github.io[see project website]
+
+This project was funded by the Erasmus+ programme of the European Union
+
+image:/assets/eu_flag_co_funded_pos_rgb_right.jpg[alt="Co-funded by the Erasmus+ Programme of the European Union"]

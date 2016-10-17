@@ -1,0 +1,19 @@
+= Setting up an online shop
+
+This chapter will cover:
+
+ * Entrepreneurship
+ ** Developing a competitive business idea
+ * Technical basic knowledge
+ ** Technical requirements needed to set up an online shop
+ * Administrating an online shop
+ ** Administrating products and product categories
+ ** Basic design, using templates and pre-made modules
+ ** Adding product pictures
+ ** Creating meaningful shop content (especially regarding product descriptions, basics of search engine optimisation)
+ ** Adding correct legal terms and conditions, contact information
+ ** Setting up tax information, shipping rates
+ ** Processing orders and customer communication
+ ** Evaluating shop performance, calculating key figures
+
+
