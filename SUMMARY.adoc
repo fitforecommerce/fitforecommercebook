@@ -1,8 +1,0 @@
-= Summary
-
-. link:README.adoc[Introduction]
-.. link:about.adoc[About the project]
-. link:setup-of-onlineshop-platform.adoc[Setting up an online shop]
-. link:facilitating-online-marketing.adoc[Facilitating online marketing]
-. link:basics-of-internet-programming.adoc[Basics of Internet programming]
-
