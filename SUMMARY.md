@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](README.adoc)
 * [About the project](chapter1.md)
 * [How to write for this book](how-to-write-for-this-book.md)
 * [Setup of an online shop](setup-of-an-online-shop.md)
