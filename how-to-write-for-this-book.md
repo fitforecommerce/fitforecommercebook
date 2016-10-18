@@ -1,4 +1,4 @@
-![](/assets/competence_diagram.png)# How to write for this book
+# How to write for this book
 
 The structure of the book should be as follows:
 
