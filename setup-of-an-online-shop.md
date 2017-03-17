@@ -3,22 +3,23 @@
 This chapter will cover:
 
 * Entrepreneurship
-    * developing a competitive business idea
+  * developing a competitive business idea
 * Technical basic knowledge
- * technical requirements needed to set up an online shop
+  * technical requirements needed to set up an online shop
 * Administrating an online shop
- * administrating products and product categories
- * basic design, using templates and pre-made modules
- * adding product pictures
- * creating meaningful shop content (especially regarding product descriptions, basics of search engine optimisation)
- * adding correct legal terms and conditions, contact information
- * setting up tax information, shipping rates
- * processing orders and customer communication
- * evaluating shop performance, calculating key figures
-
+  * administrating products and product categories
+  * basic design, using templates and pre-made modules
+  * adding product pictures
+  * creating meaningful shop content \(especially regarding product descriptions, basics of search engine optimisation\)
+  * adding correct legal terms and conditions, contact information
+  * setting up tax information, shipping rates
+  * processing orders and customer communication
+  * evaluating shop performance, calculating key figures
 
 ## Competences
-### Fachkompetenz
+
+### Professional competence
+
 The students will:
 
 * administrate a webshop
@@ -30,3 +31,6 @@ The students will:
 ## Lesson materials - students
 
 ## Lesson materials - teachers
+
+
+
