@@ -39,9 +39,9 @@ The students
 
 ## Course plan
 
-### Prevailing condition
+### Prevailing conditions
 
-The course is planned for a **one week full-time** course with a preceding online phase \(blended mobility\) for students to get to know each other and share business ideas. However the course can also be used in other course settings, e.g. two lessons weekly etc. 
+The course is planned for a **one week full-time** course with a preceding online phase \(blended mobility\) for students to get to know each other and share business ideas. However the course can also be used in other course settings, e.g. two lessons weekly etc.
 
 ## Lesson materials - students
 
