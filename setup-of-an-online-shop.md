@@ -65,9 +65,11 @@ There is a wide range of online shop software available \(see the following tabl
 
 Here is a non-complete overview of other shop software which you might consider:
 
-| Software | Pricing |  |  |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
+| Software | Pricing | Pros / Cons |
+| :--- | :--- | :--- |
+| Magento |  |  |
+| Oxid e-Shop |  |  |
+| Shopify |  |  |
 
 ## Lesson materials - students
 
