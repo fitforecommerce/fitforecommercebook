@@ -22,6 +22,7 @@ This chapter will cover:
 
 The students:
 
+* know which technical requirements are needed in order to start an online shop
 * independently administrate a webshop
 * setup the basic configuration of the pre-installed webshop 
 * add contact data and legal terms and conditions
