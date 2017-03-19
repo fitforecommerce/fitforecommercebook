@@ -31,8 +31,10 @@ The students:
 7. realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 8. add products to the shops's product portfolio
 9. add attractive product images at a suitable resolution, basically edited and optimised
-10. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
-11. develop a logical, customer-friendly structure for their offerings by adding product categories
+10. add prices and shipping rates depending on the kind of product
+11. add available product variations like e.g. sizes, colours
+12. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
+13. develop a logical, customer-friendly structure for their offerings by adding product categories
 
 based on the categories they setup a logical navigation for their shop
 
