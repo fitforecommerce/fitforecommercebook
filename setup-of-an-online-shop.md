@@ -63,7 +63,7 @@ There is a wide range of online shop software available \(see the following tabl
 * PrestaShop is freely available
 * PrestaShop is open-source software
 
-Here is a non-complete overview of other shop software which you might consider:
+Here is a non-complete overview of other shop software which you might want to consider:
 
 | Software | Pricing | Pros / Cons |
 | :--- | :--- | :--- |
