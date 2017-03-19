@@ -47,7 +47,15 @@ The course is planned for a **one week full-time** course with a preceding onlin
 
 #### Technical setup
 
-You will need one setup of the online shop software per group. See the [PrestaClassroom Project](https://github.com/fitforecommerce/presta-classroom.git) for an easy way to set up multiple online shops at once.
+You will need one setup of the online shop software per group. See the [PrestaClassroom Project](https://github.com/fitforecommerce/presta-classroom.git) for an easy way to set up multiple online shops at once. Here is the requirements for your web server in order to host PrestaShop 1.7.0.3 as stated on the PrestaShop website:
+
+**copy requirements here**
+
+
+
+
+
+
 
 #### Shop Software
 
