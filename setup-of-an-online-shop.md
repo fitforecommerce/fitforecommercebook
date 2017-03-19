@@ -61,6 +61,13 @@ There is a wide range of online shop software available \(see the following tabl
 * PrestaShop is used in professional enviornments
 * PrestaShop is well documented and there are plenty tutorials and other learning materials available
 * PrestaShop is freely available
+* PrestaShop is open-source software
+
+Here is a non-complete overview of other shop software which you might consider:
+
+| Software | Pricing |  |  |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
 
 ## Lesson materials - students
 
