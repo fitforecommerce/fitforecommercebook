@@ -10,23 +10,24 @@ The students:
 2. know which technical requirements are needed in order to start an online shop
 3. independently administrate a webshop
 4. understand the concept of frontend and backend of the shop
-5. setup the basic configuration of the pre-installed webshop
-6. add contact data and legal terms and conditions
-7. add employees to the shop team with different roles
-8. realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
-9. add products to the shops's product portfolio
-10. add attractive product images at a suitable resolution, basically edited and optimised
-11. add prices and shipping rates depending on the kind of product
-12. add available product variations like e.g. sizes, colours
-13. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
-14. develop a logical, customer-friendly structure for their offerings by adding product categories
-15. based on the categories they setup a logical navigation for their shop
-16. test the functionality of their shop especially regarding customer orders
-17. process orders using the built-in functionality of the shop
-18. create paper documentation of the order process
-19. deal with customer requests regarding the orders in English using email
-20. evaluate their shop's performance
-21. calculate basic key figures \(e.g. conversion rate\) using the tools of the online shop software
+5. work confidently in the web browser using tabs to open the front- and backend and to test the effect of changes immediately
+6. setup the basic configuration of the pre-installed webshop
+7. add contact data and legal terms and conditions
+8. add employees to the shop team with different roles
+9. realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
+10. add products to the shops's product portfolio
+11. add attractive product images at a suitable resolution, basically edited and optimised
+12. add prices and shipping rates depending on the kind of product
+13. add available product variations like e.g. sizes, colours
+14. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
+15. develop a logical, customer-friendly structure for their offerings by adding product categories
+16. based on the categories they setup a logical navigation for their shop
+17. test the functionality of their shop especially regarding customer orders
+18. process orders using the built-in functionality of the shop
+19. create paper documentation of the order process
+20. deal with customer requests regarding the orders in English using email
+21. evaluate their shop's performance
+22. calculate basic key figures \(e.g. conversion rate\) using the tools of the online shop software
 
 ### Other competences
 
