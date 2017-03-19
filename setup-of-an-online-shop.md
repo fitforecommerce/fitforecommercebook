@@ -43,7 +43,6 @@ The students:
 ### Other competences
 
 1. make use of learning resources and documentation available online
-
 2. collaborate in an \[international\] team \[using the second language English\]
 
 ## Lesson plan
