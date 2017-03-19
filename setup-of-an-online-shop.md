@@ -59,7 +59,7 @@ There is a wide range of online shop software available \(see the following tabl
 * students can use the pre-installed data as a starting point for their own shop
 * PrestaShop is very motivating for students to be able to see a quick success of their work
 * PrestaShop is used in professional enviornments
-* there is plenty of documentation, tutorials and other learning materials available for PrestaShop
+* PrestaShop is well documented and there are plenty tutorials and other learning materials available
 * PrestaShop is freely available
 
 ## Lesson materials - students
