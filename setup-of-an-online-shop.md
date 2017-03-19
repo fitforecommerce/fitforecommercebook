@@ -31,7 +31,9 @@ The students:
 * setup the basic configuration of the pre-installed webshop
 
 * add contact data and legal terms and conditions
+
 * add employees to the shop team with different roles
+
 * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 * add products to the shops's product portfolio
 * add attractive product images at a suitable resolution, basically edited and optimised
