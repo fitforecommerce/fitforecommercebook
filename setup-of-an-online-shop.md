@@ -70,6 +70,7 @@ Here is a non-complete overview of other shop software which you might consider:
 | Magento |  |  |
 | Oxid e-Shop |  |  |
 | Shopify |  |  |
+| Wordpress CMS |  |  |
 
 ## Lesson materials - students
 
