@@ -48,7 +48,7 @@ The students:
 The students
 
 1. make use of learning resources and documentation available online
-2. learn independently from online resources as well as their coursemates
+2. learn independently from online resources as well as from other team members
 3. collaborate in an \[international\] team \[using the second language English\]
 
 ## Lesson plan
