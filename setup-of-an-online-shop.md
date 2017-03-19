@@ -27,6 +27,8 @@ The students:
 * add employees to the shop team with different roles
 * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 * add products to the shops's product portfolio
+* add attractive product images
+* add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
 * develop a logical, customer-friendly structure for their offerings by adding product categories
 * based on the categories they setup a logical navigation for their shop
 
