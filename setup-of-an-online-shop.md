@@ -35,6 +35,8 @@ The students:
 11. add available product variations like e.g. sizes, colours
 12. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
 13. develop a logical, customer-friendly structure for their offerings by adding product categories
+14. process orders using the built-in functionality of the shop
+15. create paper documentation of the order process
 
 based on the categories they setup a logical navigation for their shop
 
