@@ -41,7 +41,7 @@ The students:
 17. create paper documentation of the order process
 18. deal with customer requests regarding the orders in English using email
 19. evaluate their shop's performance
-20. 
+
 ### Other competences
 
 The students
