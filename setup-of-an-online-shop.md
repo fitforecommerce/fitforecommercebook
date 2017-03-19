@@ -36,11 +36,15 @@ The students:
 12. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
 13. develop a logical, customer-friendly structure for their offerings by adding product categories
 14. based on the categories they setup a logical navigation for their shop
-15. process orders using the built-in functionality of the shop
-16. create paper documentation of the order process
-17. deal with customer requests regarding the orders in English using email
-
+15. test the functionality of their shop especially regarding customer orders
+16. process orders using the built-in functionality of the shop
+17. create paper documentation of the order process
+18. deal with customer requests regarding the orders in English using email
+19. evaluate their shop's performance
+20. 
 ### Other competences
+
+The students
 
 1. make use of learning resources and documentation available online
 2. collaborate in an \[international\] team \[using the second language English\]
