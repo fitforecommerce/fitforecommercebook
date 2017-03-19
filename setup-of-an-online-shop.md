@@ -39,11 +39,12 @@ The students:
 15. process orders using the built-in functionality of the shop
 16. create paper documentation of the order process
 17. deal with customer requests regarding the orders in English using email
-18. 
+
 ### Other competences
 
-* make use of learning resources and documentation available online
-* collaborate in an \[international\] team \[using the second language English\]
+1. make use of learning resources and documentation available online
+
+2. collaborate in an \[international\] team \[using the second language English\]
 
 ## Lesson plan
 
