@@ -37,7 +37,9 @@ The students
 2. learn independently from online resources as well as from other team members
 3. collaborate in an \[international\] team \[using the second language English\]
 
-## Lesson plan
+## Course plan
+
+The course is planned for a one week full-time course with a preceding online phase \(blended mobility\) for students to get to know each other and share shop ideas
 
 ## Lesson materials - students
 
