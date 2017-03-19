@@ -26,7 +26,9 @@ The students:
 * setup the basic configuration of the pre-installed webshop \(including contact data, legal terms and conditions\)
 * add employees to the shop team with different roles
 * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
-* a
+* add products to the shops's product portfolio
+* develop a logical, customer-friendly structure for their offerings by adding product categories
+* based on the categories they setup a logical navigation for their shop
 
 ### Other competences
 
