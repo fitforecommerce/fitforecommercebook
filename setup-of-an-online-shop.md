@@ -51,7 +51,7 @@ You will need one setup of the online shop software per group. See the [PrestaCl
 
 #### Shop Software
 
-
+There is a wide range of online shop software available \(see the following table\). 
 
 ## Lesson materials - students
 
