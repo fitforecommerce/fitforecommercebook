@@ -23,7 +23,8 @@ This chapter will cover:
 The students:
 
 * independently administrate a webshop
-* setup the basic configuration of the pre-installed webshop \(including contact data, legal terms and conditions\)
+* setup the basic configuration of the pre-installed webshop 
+* add contact data and legal terms and conditions
 * add employees to the shop team with different roles
 * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 * add products to the shops's product portfolio
