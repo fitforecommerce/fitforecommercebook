@@ -27,12 +27,13 @@ The students:
 * know which technical requirements are needed in order to start an online shop
 
 * independently administrate a webshop
+
 * setup the basic configuration of the pre-installed webshop 
 * add contact data and legal terms and conditions
 * add employees to the shop team with different roles
 * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 * add products to the shops's product portfolio
-* add attractive product images
+* add attractive product images at a suitable resolution
 * add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
 * develop a logical, customer-friendly structure for their offerings by adding product categories
 * based on the categories they setup a logical navigation for their shop
