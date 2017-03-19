@@ -37,7 +37,8 @@ The students:
 13. develop a logical, customer-friendly structure for their offerings by adding product categories
 14. process orders using the built-in functionality of the shop
 15. create paper documentation of the order process
-
+16. communicate with customers in English using email
+17. 
 based on the categories they setup a logical navigation for their shop
 
 ### Other competences
