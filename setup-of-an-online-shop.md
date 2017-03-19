@@ -20,11 +20,18 @@ This chapter will cover:
 
 ### Professional competence
 
-The students will:
+The students:
 
-* administrate a webshop
+* independently administrate a webshop
+  * setup the basic configuration of the pre-installed webshop
+  * add employees to the shop team with different roles
+  * realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
+  * 
 
 ### Other competences
+
+* make use of learning resources and documentation available online
+* collaborate in an \[international\] team \[using the second language English\]
 
 ## Lesson plan
 
