@@ -41,7 +41,13 @@ The students
 
 ### Prevailing conditions
 
-The course is planned for a **one week full-time** course with a preceding online phase \(blended mobility\) for students to get to know each other and share business ideas. However, the course can also be used in other course settings, e.g. two lessons weekly etc. If students can access and administrate the shops from home this makes the course concept even more flexible. 
+#### Time planning
+
+The course is planned for a **one week full-time** course with a preceding online phase \(blended mobility\) for students to get to know each other and share business ideas. However, the course can also be used in other course settings, e.g. two lessons weekly etc. If students can access and administrate the shops from home this makes the course concept even more flexible.
+
+#### Technical setup
+
+You will need one setup of the online shop software per group. See the [Presta Classroom Project](https://github.com/fitforecommerce/presta-classroom.git) for an easy way to set up multiple online shops at once.
 
 ## Lesson materials - students
 
