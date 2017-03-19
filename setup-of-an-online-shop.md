@@ -22,24 +22,19 @@ This chapter will cover:
 
 The students:
 
-* develop their own business idea in a team
+1. develop their own business idea in a team
+2. know which technical requirements are needed in order to start an online shop
+3. independently administrate a webshop
+4. setup the basic configuration of the pre-installed webshop
+5. add contact data and legal terms and conditions
+6. add employees to the shop team with different roles
+7. realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
+8. add products to the shops's product portfolio
+9. add attractive product images at a suitable resolution, basically edited and optimised
+10. add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
+11. develop a logical, customer-friendly structure for their offerings by adding product categories
 
-* know which technical requirements are needed in order to start an online shop
-
-* independently administrate a webshop
-
-* setup the basic configuration of the pre-installed webshop
-
-* add contact data and legal terms and conditions
-
-* add employees to the shop team with different roles
-
-* realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
-* add products to the shops's product portfolio
-* add attractive product images at a suitable resolution, basically edited and optimised
-* add meaningful product descriptions considering the basics of search engine optimisation \(SEO\)
-* develop a logical, customer-friendly structure for their offerings by adding product categories
-* based on the categories they setup a logical navigation for their shop
+based on the categories they setup a logical navigation for their shop
 
 ### Other competences
 
