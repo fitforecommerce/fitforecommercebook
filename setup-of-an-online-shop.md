@@ -53,11 +53,12 @@ You will need one setup of the online shop software per group. See the [PrestaCl
 
 There is a wide range of online shop software available \(see the following table\). As in most educational settings money is scarce, the freely available softwares will probably be more interesting. In our project we have decided to use [PrestaShop](https://prestashop.com). Coincidentally two of the project partners LBS Tschuggmall Brixen and Staatliche Berufsschule Bayreuth have come to this decision independently. Both schools have used PrestaShop in projects before and have made good experiences with it. In our opinion the main advantages of PrestaShop are the following:
 
-* it comes with pre-configured with a fully working setup so there is no additional setup before you can actually see your shop
+* PrestaShop comes with pre-configured with a fully working setup so there is no additional setup before you can actually see your shop
 * students can use the pre-installed data as a starting point for their own shop
-* it is very motivating for students to see a quick success of their work
-* it is used in professional enviornments
-* it is freely available
+* PrestaShop is very motivating for students to be able to see a quick success of their work
+* PrestaShop is used in professional enviornments
+* there is plenty of documentation, tutorials and other learning materials available for PrestaShop
+* PrestaShop is freely available
 
 ## Lesson materials - students
 
