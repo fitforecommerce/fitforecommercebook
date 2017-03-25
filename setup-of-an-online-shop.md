@@ -72,6 +72,14 @@ Here is a non-complete overview of other shop software which you might want to c
 | Shopify |  |  |
 | Wordpress CMS |  |  |
 
+### Actual Course Plan
+
+1. **Self-Assessment**: Students fill in the self-assessment sheet in order to evaluate their competences and skills \(ideally as an online questionnaire\)
+2. **Business idea**: Students create and decide which business model and idea they would like to realize in their shop
+3. **Work Phase**: In a self-organized setting students set up and administrate their online shop. During the work phase they will have regular meetings with teachers in which they will have to show the progress they made and during which they can also discuss technical, social or organisational issues. Towards the end of the work phase the shops will be tested by teachers or other students acting as customers. The groups will have to make sure that the orders are correctly processed and they will also have to stay in contact with customers and assist them with any problems that might occur.
+4. **Presentation Phase**: At the end of the work phase the students will have to present their business idea and the shop they created in front of the teachers and other students.
+5. **Evaluation Phase**: At the end the outcome of the project will be evaluated. Once again students will have to self-assess their competences. Also teachers will asses the competences of the students. In a short oral feedback both assessments will be compared and discussed. Students can be marked based on the competence sheet.
+
 ## Lesson materials - students
 
 ## Lesson materials - teachers
