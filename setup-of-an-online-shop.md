@@ -8,13 +8,13 @@ The students:
 
 1. develop an own business idea in a team
 2. know which technical requirements are needed in order to start an online shop
-3. independently administrate a webshop
+3. administrate a webshop independently
 4. understand the concept of frontend and backend of the shop
 5. work confidently in the web browser using tabs to open the front- and backend and to test the effect of changes immediately
 6. setup the basic configuration of the pre-installed webshop
 7. add contact data and legal terms and conditions
 8. add employees to the shop team with different roles
-9. realize that setting up roles is a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
+9. set up employee roles as a safety measure against unwanted changes to the shop, downtimes or other malfunction of the shop
 10. add products to the shops's product portfolio
 11. add attractive product images at a suitable resolution, basically edited and optimised
 12. add prices and shipping rates depending on the kind of product
