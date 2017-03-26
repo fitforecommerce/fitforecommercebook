@@ -49,7 +49,20 @@ The course is planned for a **one week full-time** course with a preceding onlin
 
 You will need one setup of the online shop software per group. See the [PrestaClassroom Project](https://github.com/fitforecommerce/presta-classroom.git) for an easy way to set up multiple online shops at once. Here is the requirements for your web server in order to host PrestaShop 1.7.0.3 as stated on the PrestaShop website:
 
-**copy requirements here**
+> To install PrestaShop on the Internet:
+>
+> * A domain name
+> * Web server: **Apache 1.3, Apache 2.x, Nginx** or **Microsoft IIS**
+> * **PHP 5.4+**
+> * **MySQL 5.0+** installed with a database created
+> * **SSH or FTP access** \(ask your hosting service for your credentials\)
+>
+> **OPTIONAL**
+>
+> * In the PHP configuration ask your provider to set **memory\_limit** to **"128M"** and **upload\_max\_file\_size** to **"16M"**
+> * **SSL certificate** if you plan to process payments internally \(not using PayPal for instance\)
+> * Optional PHP extensions: **GD, cURL, SimpleXML, SOAP**
+> * To improve performances: **MemCached, mcrypt PHP extension**
 
 #### Shop Software
 
