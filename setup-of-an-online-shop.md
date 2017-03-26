@@ -2,7 +2,7 @@
 
 ## Competences
 
-### Professional competence
+### Professional competences
 
 The students:
 
