@@ -95,6 +95,8 @@ Here is a non-complete overview of other shop software which you might want to c
 
 ## Lesson materials - students
 
+---
+
 ### Questionnaire for students from abroad
 
 At the beginning and at the end of the week abroad.
@@ -134,6 +136,104 @@ Introductory sentence: “As you are involved in working on the project “Fit f
 * I am satisfied with the outcome of this week.
 
 “Thank you for answering the questions.”
+
+
+
+---
+
+### Setting up an Onlineshop
+
+
+
+#### Login - Frontend
+
+1. Open the following link: http://www.qqq.de/shops/shopX \(X = number of your group\)
+
+2. Authentication: To log in enter the following \(the appearance of the window can be different depending on the browser used\)
+
+
+
+#### Login - Backend
+
+Same steps as for Login - Frontend \(see above\)
+
+Open the following link:: http://www.qqq.de/shops/shopX/admin123 \(X = number of your group\)
+
+2. Authentication: To log in enter the following:
+
+
+
+#### Help
+
+Find the official documentation of Prestashop here: http://doc.prestashop.com/display/PS17/User+Guide
+
+Youtube: Numerous video instructions can be found on Youtube: Search for „Prestashop 1.7“
+
+
+
+#### Tasks
+
+Change settings 
+
+	\(See e.g. „Shop Parameters -&gt; Contact -&gt; Stores“ or „Design -&gt; Pages“ …\)
+
+* Change contact information
+* Change Banking information for your online shop 
+* Add new employees \(one for every group member!\) \(See Advanced Parameters\)
+* Change the following settings:  terms and conditions, delivery, About us, secure payment   \[Design -&gt; Pages\]
+* Offer UPS und DHL as shipping options and change  shipping rates accordingly
+
+
+
+Change design of your shop
+
+* redesign and restructure your home page
+* create your own individual logo and use it in your online shop   \[Design -&gt; Theme & Logo\]
+
+
+
+Categories and products
+
+* Delete old products and categories.
+*  Add at least 10 products to your shop
+* Note: a meaningful description of your products helps selling them \(Remember:  Search Engine Optimisation\)
+
+
+
+Operate the online shop
+
+Test
+
+* Visit the online shop of another group
+* Place 3 orders in the online shop of the other group
+
+
+
+Order
+
+* Process the incoming orders in your own online shop:
+* payment processing
+* print delivery notes
+* print invoices
+* =&gt; until „processed successfully“
+
+
+
+Statistics
+
+Evaluation:
+
+* How many female and male customers are registered?
+* Who was the best customer in your shop?
+* Which products are bestsellers?
+* Which category was the most successful?
+
+
+
+For the fast ones:
+
+* Find a free of charge prestashop-theme und install it!
+  ---
 
 ## Lesson materials - teachers
 
