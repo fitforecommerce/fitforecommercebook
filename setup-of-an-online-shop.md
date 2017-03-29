@@ -95,6 +95,66 @@ Here is a non-complete overview of other shop software which you might want to c
 
 ## Lesson materials - students
 
+### Questionnaire for students from abroad
+
+At the beginning and at the end of the week abroad.
+
+\(Possible answers: “I totally disagree”, “I disagree”, “I agree”, “I totally agree”,\)
+
+Introductory sentence: “As you are involved in working on the project “Fit for E-commerce” during this week we would like you to answer some questions on your attitudes towards this subject before and after this week to see changes while being involved.”
+
+
+
+**Attitudes:**
+
+* I think e-commerce is important for my future work life
+* I think this training course on e-commerce is important for my future work life
+
+* I think this special subject of this week is important for my future work life.
+
+* I see a benefit for me in working on this subject.
+* I see a benefit for me in working on this subject in a team for my personal development
+* I see a benefit for me in working on this subject in an international team for my personal development
+
+
+
+**Knowledge:**
+
+* I have enough knowledge in the field of E-commerce.
+* I have enough knowledge in the field of setting up an online shop.
+* I have enough knowledge in the field of basic HTML/CSS programming.
+* I have enough knowledge in the field of internet marketing.
+
+
+
+**Skills:**
+
+* I enjoy working in a team.
+* I enjoy working in international teams.
+* I am confident in using English in international teams
+
+* I personally enjoy dealing with this subject.
+
+
+
+## Additional questions for evaluation after the course week:
+
+
+
+The training material is well structured.
+
+The training material is useful.
+
+The training material is useful for working independently on the subject.
+
+I am satisfied with the outcome of this week.
+
+
+
+“Thank you for answering the questions.”
+
+
+
 ## Lesson materials - teachers
 
 
