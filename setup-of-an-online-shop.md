@@ -107,11 +107,8 @@ Introductory sentence: “As you are involved in working on the project “Fit f
 
 * I think e-commerce is important for my future work life
 * I think this training course on e-commerce is important for my future work life
-
 * I think this special subject of this week is important for my future work life.
-
 * I see a benefit for me in working on this subject.
-
 * I see a benefit for me in working on this subject in a team for my personal development
 * I see a benefit for me in working on this subject in an international team for my personal development
 
@@ -127,7 +124,6 @@ Introductory sentence: “As you are involved in working on the project “Fit f
 * I enjoy working in a team.
 * I enjoy working in international teams.
 * I am confident in using English in international teams
-
 * I personally enjoy dealing with this subject.
 
 ### Additional questions for evaluation after the course week:
