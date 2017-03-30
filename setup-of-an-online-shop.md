@@ -137,68 +137,54 @@ Introductory sentence: “As you are involved in working on the project “Fit f
 
 “Thank you for answering the questions.”
 
-
-
 ---
 
 ### Setting up an Onlineshop
 
-
-
 #### Login - Frontend
 
-1. Open the following link: http://www.qqq.de/shops/shopX \(X = number of your group\)
+1. Open the following link: [http://www.qqq.de/shops/shopX](http://www.qqq.de/shops/shopX) \(X = number of your group\)
 
 2. Authentication: To log in enter the following \(the appearance of the window can be different depending on the browser used\)
-
-
 
 #### Login - Backend
 
 Same steps as for Login - Frontend \(see above\)
 
-Open the following link:: http://www.qqq.de/shops/shopX/admin123 \(X = number of your group\)
+Open the following link:: [http://www.qqq.de/shops/shopX/admin123](http://www.qqq.de/shops/shopX/admin123) \(X = number of your group\)
 
-2. Authentication: To log in enter the following:
-
-
+1. Authentication: To log in enter the following:
 
 #### Help
 
-Find the official documentation of Prestashop here: http://doc.prestashop.com/display/PS17/User+Guide
+Find the official documentation of Prestashop here: [http://doc.prestashop.com/display/PS17/User+Guide](http://doc.prestashop.com/display/PS17/User+Guide)
 
 Youtube: Numerous video instructions can be found on Youtube: Search for „Prestashop 1.7“
 
-
-
 #### Tasks
 
-Change settings 
+Change settings
 
-	\(See e.g. „Shop Parameters -&gt; Contact -&gt; Stores“ or „Design -&gt; Pages“ …\)
+```
+\(See e.g. „Shop Parameters -&gt; Contact -&gt; Stores“ or „Design -&gt; Pages“ …\)
+```
 
 * Change contact information
 * Change Banking information for your online shop 
 * Add new employees \(one for every group member!\) \(See Advanced Parameters\)
-* Change the following settings:  terms and conditions, delivery, About us, secure payment   \[Design -&gt; Pages\]
+* Change the following settings:  terms and conditions, delivery, About us, secure payment     \[Design -&gt; Pages\]
 * Offer UPS und DHL as shipping options and change  shipping rates accordingly
-
-
 
 Change design of your shop
 
 * redesign and restructure your home page
-* create your own individual logo and use it in your online shop   \[Design -&gt; Theme & Logo\]
-
-
+* create your own individual logo and use it in your online shop     \[Design -&gt; Theme & Logo\]
 
 Categories and products
 
 * Delete old products and categories.
-*  Add at least 10 products to your shop
+* Add at least 10 products to your shop
 * Note: a meaningful description of your products helps selling them \(Remember:  Search Engine Optimisation\)
-
-
 
 Operate the online shop
 
@@ -207,8 +193,6 @@ Test
 * Visit the online shop of another group
 * Place 3 orders in the online shop of the other group
 
-
-
 Order
 
 * Process the incoming orders in your own online shop:
@@ -216,8 +200,6 @@ Order
 * print delivery notes
 * print invoices
 * =&gt; until „processed successfully“
-
-
 
 Statistics
 
@@ -228,14 +210,35 @@ Evaluation:
 * Which products are bestsellers?
 * Which category was the most successful?
 
-
-
 For the fast ones:
 
-* Find a free of charge prestashop-theme und install it!
-  ---
+* ## Find a free of charge prestashop-theme und install it!
 
 ## Lesson materials - teachers
 
+### Send the following sample emails to the online shops and wait for an appropriate answer:
 
+**Asking for quantity discount:**
+
+Ladies and Gentlemen:
+
+We found your online shop while searching the internet and are very interested in your products. We are thinking about ordering a larger quantity of your products if the prices are reasonable. So could you please inform us about possible quantity discounts as well as introductory and cash discounts? 
+
+Sincerely
+
+John Metzler
+
+
+
+**Asking for delivery of ordered goods:**
+
+Ladies and Gentlemen:
+
+We found your online shop while searching the internet and were very interested in your products. Unfortunately we have to inform you that the goods we ordered exactly 3 weeks ago haven’t been delivered yet. So we tried to find an order confirmation which we couldn’t find. Something must have gone wrong. Could you please have a look into this matter.
+
+We look forward to an early reply.
+
+Sincerely
+
+John Metzler
 
