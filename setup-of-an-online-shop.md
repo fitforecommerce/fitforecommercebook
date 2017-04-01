@@ -166,7 +166,7 @@ Youtube: Numerous video instructions can be found on Youtube: Search for „Pres
 Change settings
 
 ```
-\(See e.g. „Shop Parameters -&gt; Contact -&gt; Stores“ or „Design -&gt; Pages“ …\)
+(See e.g. „Shop Parameters -> Contact -> Stores“ or „Design ->; Pages“ ...)
 ```
 
 * Change contact information
@@ -245,6 +245,7 @@ John Metzler
 #### Asking for help with cancelling an order
 
 #### Asking for help with a return delivery
+
 
 
 
