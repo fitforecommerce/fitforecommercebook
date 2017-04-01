@@ -32,7 +32,7 @@ Dear Sir or Madam
 
 Yesterday, I ordered 91 items of your product. Unfortunately, I made a typing mistake and instead of 91 items I initially wanted to purchase 19 items. Would it be possible to cancel the order for 72 items?
 
-I apologise for any inconvenience.
+I apologise for any inconvenience that may cause.
 
 Thank you in advance.
 
