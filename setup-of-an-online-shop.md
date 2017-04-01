@@ -172,13 +172,13 @@ Change settings
 * Change contact information
 * Change Banking information for your online shop 
 * Add new employees \(one for every group member!\) \(See Advanced Parameters\)
-* Change the following settings:  terms and conditions, delivery, About us, secure payment     \[Design -&gt; Pages\]
+* Change the following settings:  terms and conditions, delivery, About us, secure payment       \[Design -&gt; Pages\]
 * Offer UPS und DHL as shipping options and change  shipping rates accordingly
 
 Change design of your shop
 
 * redesign and restructure your home page
-* create your own individual logo and use it in your online shop     \[Design -&gt; Theme & Logo\]
+* create your own individual logo and use it in your online shop       \[Design -&gt; Theme & Logo\]
 
 Categories and products
 
@@ -216,21 +216,21 @@ For the fast ones:
 
 ## Lesson materials - teachers
 
-### Send the following sample emails to the online shops and wait for an appropriate answer:
+### Sample Email Requests
 
-**Asking for quantity discount:**
+Send the following sample emails to the online shops and wait for an appropriate answer:
+
+#### **Asking for quantity discount**
 
 Ladies and Gentlemen:
 
-We found your online shop while searching the internet and are very interested in your products. We are thinking about ordering a larger quantity of your products if the prices are reasonable. So could you please inform us about possible quantity discounts as well as introductory and cash discounts? 
+We found your online shop while searching the internet and are very interested in your products. We are thinking about ordering a larger quantity of your products if the prices are reasonable. So could you please inform us about possible quantity discounts as well as introductory and cash discounts?
 
 Sincerely
 
 John Metzler
 
-
-
-**Asking for delivery of ordered goods:**
+#### **Asking for delivery of ordered goods**
 
 Ladies and Gentlemen:
 
@@ -241,4 +241,10 @@ We look forward to an early reply.
 Sincerely
 
 John Metzler
+
+#### Asking for help with a return delivery
+
+
+
+
 
