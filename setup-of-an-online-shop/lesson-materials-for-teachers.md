@@ -38,6 +38,8 @@ Thank you in advance.
 
 Kind regards
 
+Britta Meier
+
 #### Asking for help with a return delivery
 
 Dear Sir or Madam
