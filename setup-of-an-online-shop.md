@@ -172,13 +172,13 @@ Change settings
 * Change contact information
 * Change Banking information for your online shop 
 * Add new employees \(one for every group member!\) \(See Advanced Parameters\)
-* Change the following settings:  terms and conditions, delivery, About us, secure payment       \[Design -&gt; Pages\]
+* Change the following settings:  terms and conditions, delivery, About us, secure payment         \[Design -&gt; Pages\]
 * Offer UPS und DHL as shipping options and change  shipping rates accordingly
 
 Change design of your shop
 
 * redesign and restructure your home page
-* create your own individual logo and use it in your online shop       \[Design -&gt; Theme & Logo\]
+* create your own individual logo and use it in your online shop         \[Design -&gt; Theme & Logo\]
 
 Categories and products
 
@@ -212,7 +212,7 @@ Evaluation:
 
 For the fast ones:
 
-* ## Find a free of charge prestashop-theme und install it!
+* Find a free of charge prestashop-theme und install it!
 
 ## Lesson materials - teachers
 
@@ -243,8 +243,6 @@ Sincerely
 John Metzler
 
 #### Asking for help with a return delivery
-
-
 
 
 
