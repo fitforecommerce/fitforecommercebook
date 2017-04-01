@@ -28,13 +28,23 @@ John Metzler
 
 #### Asking for help with cancelling an order
 
+Dear Sir or Madam
+
+Yesterday, I ordered 91 items of your product. Unfortunately, I made a typing mistake and instead of 91 items I initially wanted to purchase 19 items. Would it be possible to cancel the order for 72 items?
+
+I apologise for any inconvenience.
+
+Thank you in advance.
+
+Kind regards
+
 #### Asking for help with a return delivery
 
 Dear Sir or Madam
 
 Thank you very much for your delivery which arrived promptly. However, after inspecting the goods I found that two of the items no. ... are damaged. Could you take them back and send a replacement at your expense?
 
-We look forward to hearing from you soon.
+I look forward to hearing from you soon.
 
 Thank you for your trouble.
 
