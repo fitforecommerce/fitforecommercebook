@@ -9,5 +9,6 @@
   * [Lesson Materials for Students](setup-of-an-online-shop/lesson-materials-for-students.md)
   * [Lesson Materials for Teachers](setup-of-an-online-shop/lesson-materials-for-teachers.md)
 * [Facilitating online marketing](facilitating-online-marketing.md)
+  * [Search Engine Optimization](facilitating-online-marketing/search-engine-optimization.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
 
