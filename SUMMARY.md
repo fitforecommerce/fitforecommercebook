@@ -10,8 +10,8 @@
   * [Lesson Materials for Teachers](setup-of-an-online-shop/lesson-materials-for-teachers.md)
 * [Facilitating online marketing](facilitating-online-marketing.md)
   * [Competences](facilitating-online-marketing/competences.md)
-  * Optimize a website that improves both the Google Ranking and the Conversion Rate
   * [Course Plan](facilitating-online-marketing/course-plan.md)
+  * [Lesson Materials for Students](facilitating-online-marketing/optimize-a-website-that-improves-both-the-google-ranking-and-the-conversion-rate.md)
   * [lesson-materials](facilitating-online-marketing/lesson-materials.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
 * competences
