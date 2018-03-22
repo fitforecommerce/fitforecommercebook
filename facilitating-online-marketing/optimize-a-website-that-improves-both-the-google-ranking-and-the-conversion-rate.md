@@ -26,11 +26,9 @@ Get well informed about how to optimize search engines and make a handout answer
 
 Now your task is to optimize your online shop appropriately. Before getting started, you should plan thoroughly which methods you are going to use. Elaborate an action plan in which you list who of you will be responsible for which jobs and with which tools you will be able to reach your goals. Obviously, you will have to conduct various analyses right at the beginning.
 
-**What?**    For example: conducting a keyword analysis
-
-**Who?**    For example: Anna and Maria…
-
-**How?**    With which tools?  For example: google analytics
+* **What?**    For example: conducting a keyword analysis
+* **Who?**    For example: Anna and Maria…
+* **How?**    With which tools?  For example: google analytics
 
 ## Task 3 \(for the group\)
 
