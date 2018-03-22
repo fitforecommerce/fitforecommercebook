@@ -11,7 +11,7 @@
 * [Facilitating online marketing](facilitating-online-marketing.md)
   * [Competences](facilitating-online-marketing/competences.md)
   * Optimize a website that improves both the Google Ranking and the Conversion Rate
-  * course-plan
+  * [Course Plan](facilitating-online-marketing/course-plan.md)
   * [lesson-materials](facilitating-online-marketing/lesson-materials.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
 * competences
