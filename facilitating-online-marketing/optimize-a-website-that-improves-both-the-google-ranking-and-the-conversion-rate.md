@@ -2,7 +2,7 @@
 
 ### Situation at work
 
-The online shop “ 1000 shapes of southtyrol” has been online for half a year now. Unfortunately, it hasn’t been able to come further to the front in the Google ranking, there were not enough hits and accordingly the expected number of sales hasn’t been reached.
+The online shop “1000 shapes of southtyrol” has been online for half a year now. Unfortunately, it hasn’t been able to come further to the front in the Google ranking, there were not enough hits and accordingly the expected number of sales hasn’t been reached.
 
 In order to change that the website should be optimized and several SEO actions should be taken.
 
@@ -39,6 +39,4 @@ Your website has been optimized appropriately, your handout is ready. Now prepar
 **Keep in mind: Everyone has to contribute to the presentation!**
 
 **Good work!**
-
-
 
