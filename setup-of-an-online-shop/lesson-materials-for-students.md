@@ -2,7 +2,7 @@
 
 ---
 
-### Questionnaire for students from abroad
+### Questionnaire for students
 
 At the beginning and at the end of the week abroad.
 

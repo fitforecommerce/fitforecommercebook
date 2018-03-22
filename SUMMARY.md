@@ -8,11 +8,12 @@
   * [Course Plan](setup-of-an-online-shop/course-plan.md)
   * [Lesson Materials for Students](setup-of-an-online-shop/lesson-materials-for-students.md)
   * [Lesson Materials for Teachers](setup-of-an-online-shop/lesson-materials-for-teachers.md)
+  * [Evaluation of questionnaire](setup-of-an-online-shop/evaluation-of-questionnaire.md)
 * [Facilitating online marketing](facilitating-online-marketing.md)
   * [Competences](facilitating-online-marketing/competences.md)
   * Optimize a website that improves both the Google Ranking and the Conversion Rate
   * [Course Plan](facilitating-online-marketing/course-plan.md)
   * [lesson-materials](facilitating-online-marketing/lesson-materials.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
-* competences
+* [competences](competences.md)
 
