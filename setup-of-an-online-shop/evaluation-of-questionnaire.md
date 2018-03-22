@@ -84,7 +84,7 @@ average mark at the beginning of the week: 3,3; average mark at the end of the w
 
 #### _Interpretation of results:_
 
-The students started with a very positive attitude towards working in international teams and saw an importance and benefits in gaining skills in these fields. \(Average values above 3.2\) which could be increased during working on this subject for one week slightly by 0.1-0.2 points.
+The students displayed a very positive attitude towards soft skills like working in international teams and saw an importance and benefits in gaining skills in these fields, \(Average values above 3.2\) which could be increased during working on this subject for one week slightly by 0.1-0.3 points.
 
 #### Additional questions for evaluation after the course week:
 
@@ -100,7 +100,19 @@ average mark at the end of the week: 3,4
 
 average mark at the end of the week: 3,2
 
+#### _Interpretation of results:_
+
+After having attended the training course the students assessed the value of the training material as being very useful and well structured for working independently on this subject.
+
 ##### 5. "I am satisfied with the outcome of this week."
 
 average mark at the end of the week: 3,5
+
+#### _Interpretation of results:_
+
+In conclusion the students assessed the overall outcome of this week with an average value of 3.5 with 58 % of students awarding the project with highest possible grade.
+
+#### 
+
+
 
