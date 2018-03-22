@@ -14,5 +14,8 @@
   * [Lesson Materials for Students](facilitating-online-marketing/optimize-a-website-that-improves-both-the-google-ranking-and-the-conversion-rate.md)
   * [Lesson Materials for Teachers](facilitating-online-marketing/lesson-materials-for-teachers.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
-* competences
+  * Competences
+  * Course Plan
+  * Lesson Materials for Students
+  * Lesson Materials for Teachers
 
