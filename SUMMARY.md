@@ -16,4 +16,5 @@
   * [lesson-materials](facilitating-online-marketing/lesson-materials.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
 * [competences](competences.md)
+* [Lessons Materials for Students](lessons-materials-for-students.md)
 
