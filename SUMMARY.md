@@ -15,8 +15,8 @@
   * [Course Plan](facilitating-online-marketing/course-plan.md)
   * [lesson-materials](facilitating-online-marketing/lesson-materials.md)
 * [Basics of Internet programming](basics-of-internet-programming.md)
-  * Competences
-  * Course Plan
+  * [Competences](basics-of-internet-programming/competences.md)
+  * [Course Plan](basics-of-internet-programming/course-plan.md)
   * [Lesson Materials for Students](basics-of-internet-programming/lessons-materials-for-students.md)
   * [Lesson Materials for Teachers](basics-of-internet-programming/lessons-materials-for-teachers.md)
 
