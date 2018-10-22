@@ -1,5 +1,7 @@
 ## Course plan
 
+---
+
 ### Prevailing conditions
 
 #### Time planning
