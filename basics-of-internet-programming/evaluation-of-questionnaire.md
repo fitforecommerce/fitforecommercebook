@@ -125,61 +125,63 @@ We have gained a very welcomed evaluation by the entrepreneurs who displayed the
 
 #### _Group 1_
 
-- I would appreciate a bigger gallery. A better logo which would express a bit more the connection with my work.
+* I would appreciate a bigger gallery. A better logo which would express a bit more the connection with my work.
 
-+ Text alignment, well-arranged text, a good choice of fonts. Overall, I like the website very much.
+* Text alignment, well-arranged text, a good choice of fonts. Overall, I like the website very much.
 
 #### _Group 2_
 
-- Errors in the text. The products I offer, I would highlight somehow, not just listing. Maybe, I would change the text alignment. The contact form is too huge for me, at least I would make the letters smaller. The text ‘Write something..’ sounds strange to me and its font is different from others.
+* Errors in the text. The products I offer, I would highlight somehow, not just listing. Maybe, I would change the text alignment. The contact form is too huge for me, at least I would make the letters smaller. The text ‘Write something..’ sounds strange to me and its font is different from others.
 
-+ A great range of pink, a beautiful background which goes with my work, the shape of the pictures in the gallery is perfect. Contrary to the errors and the changes I would make, I really love it and admire your work.
+* A great range of pink, a beautiful background which goes with my work, the shape of the pictures in the gallery is perfect. Contrary to the errors and the changes I would make, I really love it and admire your work.
 
 #### _Group 3_
 
-- If I should point something out, it might be the text alignment on the first page. I do not quite like the big letters on the page ‘My work’, it scares me off a bit and the allocation of the fields of art using so called hyphen. I do not understand why there is a different font on the page ‘Contact’ in the field ‘Text…’.
+* If I should point something out, it might be the text alignment on the first page. I do not quite like the big letters on the page ‘My work’, it scares me off a bit and the allocation of the fields of art using so called hyphen. I do not understand why there is a different font on the page ‘Contact’ in the field ‘Text…’.
 
-+ Colours and their shades, you have chosen my profile photo very well, the headline on the left with another colour of the first letters is an amazing idea, it looks fabulous. The best web about me, I think. The charming background goes totally with my personality and my profile photo. The colour of the text, well-chosen gallery, perfect font of the motto. Even though I have mentioned some points I do not totally like, it’s just wonderful, thank you. I want to use this website. 😊
+* Colours and their shades, you have chosen my profile photo very well, the headline on the left with another colour of the first letters is an amazing idea, it looks fabulous. The best web about me, I think. The charming background goes totally with my personality and my profile photo. The colour of the text, well-chosen gallery, perfect font of the motto. Even though I have mentioned some points I do not totally like, it’s just wonderful, thank you. I want to use this website. 😊
 
 #### _Group 4_
 
-- The shaded font bothers me, because I can read it with a difficulty. Grammar mistakes in the text. On the page ‘My work’ there are suddenly bullets, I would rather have the same style of the text on every page.
+* The shaded font bothers me, because I can read it with a difficulty. Grammar mistakes in the text. On the page ‘My work’ there are suddenly bullets, I would rather have the same style of the text on every page.
 
-+ Perfect background, I love the green grass, because it expresses what I do. Simplicity is the best. Finally, the widest range of my products in the gallery. I like the icons, surprisingly. Out of spite the minuses, I am fond of this website.
+* Perfect background, I love the green grass, because it expresses what I do. Simplicity is the best. Finally, the widest range of my products in the gallery. I like the icons, surprisingly. Out of spite the minuses, I am fond of this website.
 
 #### _Group 5_
 
-- Grammar mistakes in the text. I do not like different fonts and the error with capital letters on the page ‘Contact’, that would be probably the weakest point of the whole page.
+* Grammar mistakes in the text. I do not like different fonts and the error with capital letters on the page ‘Contact’, that would be probably the weakest point of the whole page.
 
-+ The page ‘Products’ is absolutely stunning. The choice of colours is perfect. The thing that the upper part with my name and motto is visible on every page is the best. Despite of the negative points, the page is totally wonderful.
+* The page ‘Products’ is absolutely stunning. The choice of colours is perfect. The thing that the upper part with my name and motto is visible on every page is the best. Despite of the negative points, the page is totally wonderful.
 
 #### _Group 6_
 
-- My first name on the main page is hidden because of the colours. I am not fond of the huge letters of the text, it’s too much, I think. At the bottom of the page there should be, as it says, the logo of Erasmus+, but it is not readable. In the field of ‘Subject’ the phrase ‘Write something..’ sounds strange to me. I would rather change the font of the text.
+* My first name on the main page is hidden because of the colours. I am not fond of the huge letters of the text, it’s too much, I think. At the bottom of the page there should be, as it says, the logo of Erasmus+, but it is not readable. In the field of ‘Subject’ the phrase ‘Write something..’ sounds strange to me. I would rather change the font of the text.
 
-+ Amazing colours, the logo – the leaf in the logo, which represents the nature, is a great idea that expresses my passion. I really like the font of the headlines/ categories. I would use the exact same if I wanted to create my own website. The charming background goes perfectly with my profile photo. I love the way the website looks overall. It’s marvellous.
+* Amazing colours, the logo – the leaf in the logo, which represents the nature, is a great idea that expresses my passion. I really like the font of the headlines/ categories. I would use the exact same if I wanted to create my own website. The charming background goes perfectly with my profile photo. I love the way the website looks overall. It’s marvellous.
 
 #### _Group 7_
 
-- I strongly do not like changing of fonts, even some capital letters are misused. The buttons like ‘Back’ or ‘Route’ are too dark because of the colours, I would change them, f.e. the letters could be white and then the frame would be red. There is a perfect idea to put there the route which refers to google maps, but not with my place of living. Instead of Kostelec nad Orlici, there is Dobruska. Too big mistakes; it’s a shame because in other ways it’s a cool work.
+* I strongly do not like changing of fonts, even some capital letters are misused. The buttons like ‘Back’ or ‘Route’ are too dark because of the colours, I would change them, f.e. the letters could be white and then the frame would be red. There is a perfect idea to put there the route which refers to google maps, but not with my place of living. Instead of Kostelec nad Orlici, there is Dobruska. Too big mistakes; it’s a shame because in other ways it’s a cool work.
 
-+ You have a perfect idea of combination of the colours – red, white and black. The layout of the website is great, how it is divided into categories. You have made up some facts about me, but actually, you have captured my true essence. What looks really cool, is the layout of two - three columns. The website looks very sophisticated, it has impressed me a lot, how much effort you have put into your work. You have done a great job!
+* You have a perfect idea of combination of the colours – red, white and black. The layout of the website is great, how it is divided into categories. You have made up some facts about me, but actually, you have captured my true essence. What looks really cool, is the layout of two - three columns. The website looks very sophisticated, it has impressed me a lot, how much effort you have put into your work. You have done a great job!
 
 #### _Group 8_
 
-- There are some sentences which sounds a little strange to me. If we should stick to the tasks, it also says, there should be ‘Copyright’ or ‘All rights reserved’ with authors’ names, which I miss there. What I would definitely change is the text alignment.
+* There are some sentences which sounds a little strange to me. If we should stick to the tasks, it also says, there should be ‘Copyright’ or ‘All rights reserved’ with authors’ names, which I miss there. What I would definitely change is the text alignment.
 
-+ I love the pictures, the colours, the fonts. It looks unbelievable, in the positive way, of course. The perfect thing you have done is the ‘picture – text’/ ‘text – picture’ layout, it is stunning. You made an excellent collage of my work which you put as the background to the motto. I just love it, especially the simplicity, despite any negative remarks.
+* I love the pictures, the colours, the fonts. It looks unbelievable, in the positive way, of course. The perfect thing you have done is the ‘picture – text’/ ‘text – picture’ layout, it is stunning. You made an excellent collage of my work which you put as the background to the motto. I just love it, especially the simplicity, despite any negative remarks.
 
 #### _Group 9_
 
-- Offered changes: the text alignment and a better choice of font and the size of letters, even pictures. The gallery looks a bit poor using the size of the pictures. I would not like people creating any ‘Accounts’ on my page and write there any information about themselves. Even though I like simplicity, this website is too simple for me.
+* Offered changes: the text alignment and a better choice of font and the size of letters, even pictures. The gallery looks a bit poor using the size of the pictures. I would not like people creating any ‘Accounts’ on my page and write there any information about themselves. Even though I like simplicity, this website is too simple for me.
 
-+ I like the colours and the layout is not bad – it’s fine that it’s somehow tabular. I would put a bigger effort into creating a website next time. Anyway, this is a good start and thank you for that.
+* I like the colours and the layout is not bad – it’s fine that it’s somehow tabular. I would put a bigger effort into creating a website next time. Anyway, this is a good start and thank you for that.
 
 #### _Group 10_
 
-- Not visible authors of the website. Changing fonts which is alogical, and also the colours of the text and headlines, I do not quite like. I would definitely change the text alignment.
+* Not visible authors of the website. Changing fonts which is alogical, and also the colours of the text and headlines, I do not quite like. I would definitely change the text alignment.
 
-+ Thank you for such a wide gallery of my work. I absolutely love the idea when you click on my piece of work and it opens with others separately, not on the webpage. I like grey and white layout. You have chosen a great profile photo of me. After some technical changes, I would totally like to use this website officially.
+* Thank you for such a wide gallery of my work. I absolutely love the idea when you click on my piece of work and it opens with others separately, not on the webpage. I like grey and white layout. You have chosen a great profile photo of me. After some technical changes, I would totally like to use this website officially.
+
+
 
