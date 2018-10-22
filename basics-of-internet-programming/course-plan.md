@@ -20,7 +20,7 @@ To edit photographs you will need Adobe Photoshop, which our school uses frequen
 
 You may use any editors to create a website, like Vim, Brackets or Atom and each editor has its pros and cons. For our project we have chosen Visual Studio Code for several reasons:
 
-Pros and cons: _‘VSC combines the simplicity of a source code editor with powerful developer tooling. It offers less time spent on with fiddling with your PC environment and more time executing on your ideas. It is available for macOS, Linux and Windows …’_ \(source: [https://code.visualstudio.com/docs/editor/whyvscode\](https://code.visualstudio.com/docs/editor/whyvscode%29\). It also supports the latest standards for creating websites and supports the latest programming languages. It is one of few types of software which ‘goes with times’ and developers upgrade it consequently. One of the biggest advantages is that it is for free.
+Pros and cons: _‘VSC combines the simplicity of a source code editor with powerful developer tooling. It offers less time spent on with fiddling with your PC environment and more time executing on your ideas. It is available for macOS, Linux and Windows …’_ \(source: [https://code.visualstudio.com/docs/editor/whyvscode](https://code.visualstudio.com/docs/editor/whyvscode). It also supports the latest standards for creating websites and supports the latest programming languages. It is one of few types of software which ‘goes with times’ and developers upgrade it consequently. One of the biggest advantages is that it is for free.
 
 ### Actual Course Plan
 
