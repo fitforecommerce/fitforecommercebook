@@ -1,5 +1,7 @@
 ## Competences
 
+---
+
 ### Professional competences
 
 The students:
