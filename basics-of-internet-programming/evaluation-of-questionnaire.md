@@ -155,45 +155,71 @@ Colours and their shades, you have chosen my profile photo very well, the headli
 
 #### _Group 4_
 
-* The shaded font bothers me, because I can read it with a difficulty. Grammar mistakes in the text. On the page ‘My work’ there are suddenly bullets, I would rather have the same style of the text on every page.
+![](/assets/minus-161829_960_720.png)
 
-* Perfect background, I love the green grass, because it expresses what I do. Simplicity is the best. Finally, the widest range of my products in the gallery. I like the icons, surprisingly. Out of spite the minuses, I am fond of this website.
+The shaded font bothers me, because I can read it with a difficulty. Grammar mistakes in the text. On the page ‘My work’ there are suddenly bullets, I would rather have the same style of the text on every page.
+
+![](/assets/plus-161829_960_720.png)
+
+Perfect background, I love the green grass, because it expresses what I do. Simplicity is the best. Finally, the widest range of my products in the gallery. I like the icons, surprisingly. Out of spite the minuses, I am fond of this website.
 
 #### _Group 5_
 
-* Grammar mistakes in the text. I do not like different fonts and the error with capital letters on the page ‘Contact’, that would be probably the weakest point of the whole page.
+![](/assets/minus-161829_960_720.png)
 
-* The page ‘Products’ is absolutely stunning. The choice of colours is perfect. The thing that the upper part with my name and motto is visible on every page is the best. Despite of the negative points, the page is totally wonderful.
+Grammar mistakes in the text. I do not like different fonts and the error with capital letters on the page ‘Contact’, that would be probably the weakest point of the whole page.
+
+![](/assets/plus-161829_960_720.png)
+
+The page ‘Products’ is absolutely stunning. The choice of colours is perfect. The thing that the upper part with my name and motto is visible on every page is the best. Despite of the negative points, the page is totally wonderful.
 
 #### _Group 6_
 
-* My first name on the main page is hidden because of the colours. I am not fond of the huge letters of the text, it’s too much, I think. At the bottom of the page there should be, as it says, the logo of Erasmus+, but it is not readable. In the field of ‘Subject’ the phrase ‘Write something..’ sounds strange to me. I would rather change the font of the text.
+![](/assets/minus-161829_960_720.png)
 
-* Amazing colours, the logo – the leaf in the logo, which represents the nature, is a great idea that expresses my passion. I really like the font of the headlines/ categories. I would use the exact same if I wanted to create my own website. The charming background goes perfectly with my profile photo. I love the way the website looks overall. It’s marvellous.
+My first name on the main page is hidden because of the colours. I am not fond of the huge letters of the text, it’s too much, I think. At the bottom of the page there should be, as it says, the logo of Erasmus+, but it is not readable. In the field of ‘Subject’ the phrase ‘Write something..’ sounds strange to me. I would rather change the font of the text.
+
+![](/assets/plus-161829_960_720.png)
+
+Amazing colours, the logo – the leaf in the logo, which represents the nature, is a great idea that expresses my passion. I really like the font of the headlines/ categories. I would use the exact same if I wanted to create my own website. The charming background goes perfectly with my profile photo. I love the way the website looks overall. It’s marvellous.
 
 #### _Group 7_
 
-* I strongly do not like changing of fonts, even some capital letters are misused. The buttons like ‘Back’ or ‘Route’ are too dark because of the colours, I would change them, f.e. the letters could be white and then the frame would be red. There is a perfect idea to put there the route which refers to google maps, but not with my place of living. Instead of Kostelec nad Orlici, there is Dobruska. Too big mistakes; it’s a shame because in other ways it’s a cool work.
+![](/assets/minus-161829_960_720.png)
 
-* You have a perfect idea of combination of the colours – red, white and black. The layout of the website is great, how it is divided into categories. You have made up some facts about me, but actually, you have captured my true essence. What looks really cool, is the layout of two - three columns. The website looks very sophisticated, it has impressed me a lot, how much effort you have put into your work. You have done a great job!
+I strongly do not like changing of fonts, even some capital letters are misused. The buttons like ‘Back’ or ‘Route’ are too dark because of the colours, I would change them, f.e. the letters could be white and then the frame would be red. There is a perfect idea to put there the route which refers to google maps, but not with my place of living. Instead of Kostelec nad Orlici, there is Dobruska. Too big mistakes; it’s a shame because in other ways it’s a cool work.
+
+![](/assets/plus-161829_960_720.png)
+
+You have a perfect idea of combination of the colours – red, white and black. The layout of the website is great, how it is divided into categories. You have made up some facts about me, but actually, you have captured my true essence. What looks really cool, is the layout of two - three columns. The website looks very sophisticated, it has impressed me a lot, how much effort you have put into your work. You have done a great job!
 
 #### _Group 8_
 
-* There are some sentences which sounds a little strange to me. If we should stick to the tasks, it also says, there should be ‘Copyright’ or ‘All rights reserved’ with authors’ names, which I miss there. What I would definitely change is the text alignment.
+![](/assets/minus-161829_960_720.png)
 
-* I love the pictures, the colours, the fonts. It looks unbelievable, in the positive way, of course. The perfect thing you have done is the ‘picture – text’/ ‘text – picture’ layout, it is stunning. You made an excellent collage of my work which you put as the background to the motto. I just love it, especially the simplicity, despite any negative remarks.
+There are some sentences which sounds a little strange to me. If we should stick to the tasks, it also says, there should be ‘Copyright’ or ‘All rights reserved’ with authors’ names, which I miss there. What I would definitely change is the text alignment.
+
+![](/assets/plus-161829_960_720.png)
+
+I love the pictures, the colours, the fonts. It looks unbelievable, in the positive way, of course. The perfect thing you have done is the ‘picture – text’/ ‘text – picture’ layout, it is stunning. You made an excellent collage of my work which you put as the background to the motto. I just love it, especially the simplicity, despite any negative remarks.
 
 #### _Group 9_
 
-* Offered changes: the text alignment and a better choice of font and the size of letters, even pictures. The gallery looks a bit poor using the size of the pictures. I would not like people creating any ‘Accounts’ on my page and write there any information about themselves. Even though I like simplicity, this website is too simple for me.
+![](/assets/minus-161829_960_720.png)
 
-* I like the colours and the layout is not bad – it’s fine that it’s somehow tabular. I would put a bigger effort into creating a website next time. Anyway, this is a good start and thank you for that.
+Offered changes: the text alignment and a better choice of font and the size of letters, even pictures. The gallery looks a bit poor using the size of the pictures. I would not like people creating any ‘Accounts’ on my page and write there any information about themselves. Even though I like simplicity, this website is too simple for me.
+
+![](/assets/plus-161829_960_720.png)
+
+I like the colours and the layout is not bad – it’s fine that it’s somehow tabular. I would put a bigger effort into creating a website next time. Anyway, this is a good start and thank you for that.
 
 #### _Group 10_
 
-* Not visible authors of the website. Changing fonts which is alogical, and also the colours of the text and headlines, I do not quite like. I would definitely change the text alignment.
+![](/assets/minus-161829_960_720.png)
 
-* Thank you for such a wide gallery of my work. I absolutely love the idea when you click on my piece of work and it opens with others separately, not on the webpage. I like grey and white layout. You have chosen a great profile photo of me. After some technical changes, I would totally like to use this website officially.
+Not visible authors of the website. Changing fonts which is alogical, and also the colours of the text and headlines, I do not quite like. I would definitely change the text alignment.
 
+![](/assets/plus-161829_960_720.png)
 
+Thank you for such a wide gallery of my work. I absolutely love the idea when you click on my piece of work and it opens with others separately, not on the webpage. I like grey and white layout. You have chosen a great profile photo of me. After some technical changes, I would totally like to use this website officially.
 
