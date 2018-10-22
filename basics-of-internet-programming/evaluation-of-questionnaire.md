@@ -125,25 +125,33 @@ We have gained a very welcomed evaluation by the entrepreneurs who displayed the
 
 #### _Group 1_
 
-![](/assets/minus-161829_960_720.png)    
+![](/assets/minus-161829_960_720.png)
 
 I would appreciate a bigger gallery. A better logo which would express a bit more the connection with my work.
 
-![](/assets/plus-161829_960_720.png)    
+![](/assets/plus-161829_960_720.png)
 
 Text alignment, well-arranged text, a good choice of fonts. Overall, I like the website very much.
 
 #### _Group 2_
 
-* Errors in the text. The products I offer, I would highlight somehow, not just listing. Maybe, I would change the text alignment. The contact form is too huge for me, at least I would make the letters smaller. The text ‘Write something..’ sounds strange to me and its font is different from others.
+![](/assets/minus-161829_960_720.png)
 
-* A great range of pink, a beautiful background which goes with my work, the shape of the pictures in the gallery is perfect. Contrary to the errors and the changes I would make, I really love it and admire your work.
+Errors in the text. The products I offer, I would highlight somehow, not just listing. Maybe, I would change the text alignment. The contact form is too huge for me, at least I would make the letters smaller. The text ‘Write something..’ sounds strange to me and its font is different from others.
+
+![](/assets/plus-161829_960_720.png)
+
+A great range of pink, a beautiful background which goes with my work, the shape of the pictures in the gallery is perfect. Contrary to the errors and the changes I would make, I really love it and admire your work.
 
 #### _Group 3_
 
-* If I should point something out, it might be the text alignment on the first page. I do not quite like the big letters on the page ‘My work’, it scares me off a bit and the allocation of the fields of art using so called hyphen. I do not understand why there is a different font on the page ‘Contact’ in the field ‘Text…’.
+![](/assets/minus-161829_960_720.png)
 
-* Colours and their shades, you have chosen my profile photo very well, the headline on the left with another colour of the first letters is an amazing idea, it looks fabulous. The best web about me, I think. The charming background goes totally with my personality and my profile photo. The colour of the text, well-chosen gallery, perfect font of the motto. Even though I have mentioned some points I do not totally like, it’s just wonderful, thank you. I want to use this website. 😊
+If I should point something out, it might be the text alignment on the first page. I do not quite like the big letters on the page ‘My work’, it scares me off a bit and the allocation of the fields of art using so called hyphen. I do not understand why there is a different font on the page ‘Contact’ in the field ‘Text…’.
+
+![](/assets/plus-161829_960_720.png)
+
+Colours and their shades, you have chosen my profile photo very well, the headline on the left with another colour of the first letters is an amazing idea, it looks fabulous. The best web about me, I think. The charming background goes totally with my personality and my profile photo. The colour of the text, well-chosen gallery, perfect font of the motto. Even though I have mentioned some points I do not totally like, it’s just wonderful, thank you. I want to use this website. 😊
 
 #### _Group 4_
 
