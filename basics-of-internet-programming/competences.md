@@ -1,4 +1,4 @@
-## COMPETENCES
+## Competences
 
 ### Professional competences
 
