@@ -125,9 +125,13 @@ We have gained a very welcomed evaluation by the entrepreneurs who displayed the
 
 #### _Group 1_
 
-![](/assets/minus-161829_960_720.png)    I would appreciate a bigger gallery. A better logo which would express a bit more the connection with my work.
+![](/assets/minus-161829_960_720.png)    
 
-![](/assets/plus-161829_960_720.png)    Text alignment, well-arranged text, a good choice of fonts. Overall, I like the website very much.
+I would appreciate a bigger gallery. A better logo which would express a bit more the connection with my work.
+
+![](/assets/plus-161829_960_720.png)    
+
+Text alignment, well-arranged text, a good choice of fonts. Overall, I like the website very much.
 
 #### _Group 2_
 
