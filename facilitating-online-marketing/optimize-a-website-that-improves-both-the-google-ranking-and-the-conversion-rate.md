@@ -13,13 +13,13 @@ Get well informed about how to optimize search engines and make a handout answer
 1. How does my client search the Net?
 2. What is the difference between an organic and a generic search?
 3. What are adwords, how do they work and where are they displayed?
-4. What do we understand by OnePage and Offpage optimization?
+4. What do we understand by OnPage and Offpage optimization?
 5. Which Google ranking factors are the most important?
 6. Which analysis tools are available that might be interesting for a search engine optimization?
 7. How can you make a keyword analysis and what do you have to consider concerning a keyword strategy?
 8. Which aspects do you have to consider when performing a Snippet optimization?
 9. How should a search engine optimized URL be structured?
-10. Which points are important concerning an optimized  content?
+10. Which points are important concerning an optimized  content
 11. How can a Google indexation be done?
 
 ## Task 2 \(for the group\)

@@ -4,7 +4,19 @@
 
 #### Time planning
 
+The course is planned for a **one week full-time** course with a preceding online phase \(blended mobility\) for students to get to know each other and share business ideas. However, the course can also be used in other course settings, e.g. two lessons weekly etc. If students can access and administrate the shops from home this makes the course concept even more flexible.
+
 #### Technical setup
+
+The technical setup for this course is that you will need a pre-installed instance of the Prestashop shop-software on a web server \(see chapter 1 for more details and a comparison of different shop software\).
+
+The shops were filled with product data of typical regional delicatessen from South Tyrol. However, the data quality was deliberately at a very low level. The product descriptions were too short and did not make use of typical keywords. The meta tags on the product pages were not filled. In general the shops were only poorly optimised for search engines. In reality these shops would fail to achieve good search index listings with search engines thus harming the commercial success of the shops.
+
+The students were now faced with a question-based task in which they had to define certain fundamental technical terms related to SEO, e.g. customer journey On- and OffPage optimisation etc. They also needed to find tools for page optimisation, keyword analysis and snippet optimisation \(see course materials\).
+
+After this more theoretical input, students needed to optimise their shop according to their findings. This involved the development of an action plan before actually implementing the changes in their shop.
+
+In the last step students needed to prepare a presentation on their findings and their practical implementation in their shop.
 
 ### Actual Course Plan
 
