@@ -76,3 +76,7 @@ Your website has been optimized appropriately, your handout is ready. Now prepar
 
 **Good work!**
 
+
+
+## Example result
+[Download one of the student presentations](https://fitforecommerce.github.io/downloads/SEO_optimisation_example_presentation.pdf) to see potential solution to the task.
